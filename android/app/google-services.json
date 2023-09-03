@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804089414657",
+    "project_id": "recursion-nitd-977fd",
+    "storage_bucket": "recursion-nitd-977fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804089414657:android:e1fa81f62af5466d62ac00",
+        "android_client_info": {
+          "package_name": "com.example.recursion_nitd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804089414657-cbj97sr1keuq7geq0i9oparn05kt19tl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrnUbRihpy9IClgO6FDAJaNl_J-bnv1GE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804089414657-cbj97sr1keuq7geq0i9oparn05kt19tl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
